@@ -58,8 +58,10 @@ sdflskjdlsjdflksdjfljsdfl
 //       path: "*",
 //       expires: new Date(Date.now() + 60 * 60 * 1000),
 //     },
-//   })
+//   })sdfsdfsdf
 // );
+
+sdfsdf; lksd; lfssldkfjsldfjlsdj
 if (process.env.MODE === "dev") {
   app.use(cors("*"));
 } else {
