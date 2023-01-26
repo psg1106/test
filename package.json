@@ -1,0 +1,53 @@
+{
+  "name": "tech_casino_player_backend",
+  "version": "1.0.0",
+  "description": "this is dev version",
+  "main": "config.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "keywords": [
+    "casino"
+  ],
+  "author": "holy.dev@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.4.7",
+    "@sendgrid/mail": "^7.7.0",
+    "axios": "^1.2.1",
+    "bcrypt-nodejs": "^0.0.3",
+    "body-parser": "^1.20.1",
+    "coingecko-api": "^1.0.10",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "cron": "^2.1.0",
+    "crypto-convert": "^2.1.4",
+    "decimal.js": "^10.4.3",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2",
+    "express": "^4.18.2",
+    "express-promise-router": "^4.1.1",
+    "express-rate-limit": "^6.7.0",
+    "express-session": "^1.17.3",
+    "express-useragent": "^1.0.15",
+    "formidable": "^2.1.1",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "md5": "^2.3.0",
+    "method-override": "^3.0.0",
+    "moment-timezone": "^0.5.39",
+    "mongoose": "^6.7.5",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.20",
+    "path": "^0.12.7",
+    "randomstring": "^1.2.3",
+    "rotating-file-stream": "^3.0.4",
+    "sendgrid": "^5.2.3",
+    "socket.io": "^4.5.4",
+    "start": "^5.1.0",
+    "twilio": "^3.84.0",
+    "web3": "^1.8.1"
+  }
+}
