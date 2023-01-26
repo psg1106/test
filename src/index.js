@@ -60,7 +60,6 @@ app.set("trust proxy", 1);
 //   })sdfsdfsdf
 // );
 
-sdfsdf; lksd; lfssldkfjsldfjlsdj
 if (process.env.MODE === "dev") {
   app.use(cors("*"));
 } else {
